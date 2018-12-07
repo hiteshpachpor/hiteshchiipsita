@@ -1,11 +1,19 @@
 @pc1: #1d60a0;
 @pc2: #2cbdb2;
 
+@desktops: ~"only screen and (min-width: 480px)";
+
 body {
     font-family: 'Fira Sans', sans-serif;
     font-size: 16px;
     line-height: 1.6em;
     color: #444;
+}
+
+@media @desktops {
+    .container {
+        max-width: 640px;
+    }
 }
 
 // .italic {
@@ -84,6 +92,12 @@ p {
 .visit-our-memory-lane-container {
     margin-top: 3em;
     margin-bottom: 3em;
+
+    @media @desktops {
+        max-width: 540px;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
     img {
         filter: blur(2px);
