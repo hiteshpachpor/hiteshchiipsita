@@ -7,9 +7,9 @@
 
     <meta property="og:title" content="Hitesh weds Ipsita - 31st December 2018"/>
     <meta property="og:type" content="article"/>
-    <meta property="og:url" content="http://0cea1e8c.ngrok.io/hiteshchiipsita"/>
-    <meta property="og:image" content="http://0cea1e8c.ngrok.io/hiteshchiipsita/assets/images/5s.jpg"/>
-    <meta property="og:site_name" content="0cea1e8c.ngrok.io"/>
+    <meta property="og:url" content="http://hiteshchiipsita.com"/>
+    <meta property="og:image" content="http://hiteshchiipsita.com/assets/images/5s.jpg"/>
+    <meta property="og:site_name" content="hiteshchiipsita.com"/>
     <meta property="og:description" content="We invite you to our wedding ceremony & reception on Monday, 31st December @ De Grandeur Banquets, Thane West."/>
     <meta name="description" content="We invite you to our wedding ceremony & reception on Monday, 31st December @ De Grandeur Banquets, Thane West."/>
 
